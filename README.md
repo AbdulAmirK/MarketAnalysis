@@ -71,7 +71,7 @@ order_month
 # Visualizations & Reports #
 Order Quantity vs. Sales: A scatter plot comparing product categories with high volume and high value, created using Tableau.
 Profit Margin Analysis: Detailed visualization to analyze margin trends across different categories and products.
-Tableau Link : https://public.tableau.com/app/profile/abdul.amir/viz/E-CommerceAnalysis_17279041048540/Dashboard1 
+- Tableau Link : https://public.tableau.com/app/profile/abdul.amir/viz/E-CommerceAnalysis_17279041048540/Dashboard1 
 
 # Conclusion #
 This analysis highlights key metrics, challenges, and growth opportunities for the e-commerce business. By focusing on customer retention, improving profitability, and expanding into new markets, the business can accelerate growth and profitability in the coming years.
