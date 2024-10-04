@@ -2,7 +2,8 @@
 
 
 This repository contains an analysis of an e-commerce sales performance dataset from the past two years. The goal of the analysis is to provide insights into key metrics, highlight business performance, and offer strategic recommendations for stakeholders and investors.
-<img width="205" alt="Screenshot 2024-10-04 at 12 59 29" src="https://github.com/user-attachments/assets/17580673-bd04-4fe1-af2b-849863789469">
+
+  <img width="205" alt="Screenshot 2024-10-04 at 12 59 29" src="https://github.com/user-attachments/assets/17580673-bd04-4fe1-af2b-849863789469">
 
 # Overview #
 The dataset includes key columns such as:
