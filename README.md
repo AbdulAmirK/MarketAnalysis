@@ -25,8 +25,8 @@ order_month
 
 
 # Key Performance Indicators (KPIs) Derived: #
-- Total Revenue: $27,542,237.13
-- Total Profit: $2,614,066.90
+- Total Revenue: $27M
+- Total Profit: $2,61M
 - Number of Purchases: 42,722
 - Number of Unique Customers: 18,003
 - Average Purchase Value (APV): $644.69
